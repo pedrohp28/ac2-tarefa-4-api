@@ -1,7 +1,6 @@
 package com.example.ac22.services;
 
 import com.example.ac22.dtos.ProfessorDto;
-import com.example.ac22.models.Professor;
 
 import java.util.List;
 

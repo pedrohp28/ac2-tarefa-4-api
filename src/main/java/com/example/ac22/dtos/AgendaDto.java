@@ -1,9 +1,5 @@
 package com.example.ac22.dtos;
 
-import com.example.ac22.models.Curso;
-import com.example.ac22.models.Professor;
-import jakarta.persistence.JoinColumn;
-import jakarta.persistence.ManyToOne;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;

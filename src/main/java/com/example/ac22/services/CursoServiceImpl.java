@@ -2,11 +2,9 @@ package com.example.ac22.services;
 
 import com.example.ac22.dtos.CursoDto;
 import com.example.ac22.dtos.DadosCursoDto;
-import com.example.ac22.dtos.ProfessorDto;
 import com.example.ac22.dtos.ProfessorDtoInfo;
 import com.example.ac22.exceptions.RegraNegocioException;
 import com.example.ac22.models.Curso;
-import com.example.ac22.models.Professor;
 import com.example.ac22.repositories.CursoRepository;
 import com.example.ac22.repositories.ProfessorRepository;
 import org.springframework.beans.factory.annotation.Autowired;

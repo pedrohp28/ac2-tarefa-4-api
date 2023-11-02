@@ -1,6 +1,5 @@
 package com.example.ac22.services;
 
-import com.example.ac22.dtos.CursoDto;
 import com.example.ac22.dtos.ProfessorDto;
 import com.example.ac22.exceptions.RegraNegocioException;
 import com.example.ac22.models.Curso;
@@ -10,8 +9,6 @@ import com.example.ac22.repositories.ProfessorRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 

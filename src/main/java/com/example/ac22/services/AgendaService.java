@@ -1,7 +1,6 @@
 package com.example.ac22.services;
 
 import com.example.ac22.dtos.AgendaDto;
-import com.example.ac22.models.Agenda;
 
 import java.time.LocalDate;
 import java.util.List;
